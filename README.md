@@ -1,0 +1,1 @@
+This example demonstrates a common mistake in Elixir when working with lists and enumeration.  The code intends to remove the element `3` from the list, but due to Elixir's immutability, the original list remains unaffected. The solution demonstrates correct approaches for modifying lists.
